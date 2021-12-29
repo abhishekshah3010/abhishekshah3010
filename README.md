@@ -3,7 +3,7 @@
 - 💻 **Actively** looking for ****Summer 2022 Co-op/Internship**** opportunities.
 - 👀 Interested in Software Development, Web Development, Machine Learning and Deep Learning.
 - 😎 Skilled in **Python, Java, Data Structures, Algorithms, Problem-Solving**.
-- 📖 Currently trying my hands on MERN Stack.
+- 📖 Currently trying my hands on Web Development.
 - ⭐ Passionate about developing progressive applications and finding innovative solutions.
 - 📝 Tech Blogger at **https://abhishekshah3010.medium.com**
 - 📩 Reach out to me at **https://www.linkedin.com/in/abhishekshah3010** or at **as5553@rit.edu**
