@@ -2,7 +2,7 @@
 
 - 🏫 A **Computer Science Graduate** Student at **Rochester Institute of Technology**, NY.
 
-- 💻 **Actively** looking for ****Fall 2022, Spring 2023 Co-op/Internship**** opportunities.
+- 💻 **Actively** looking for ****Spring'23 Co-op and Summer'23 Internship**** opportunities.
 
 - 👀 Interested in Software Development, Web Development, Machine Learning and Deep Learning.
 
