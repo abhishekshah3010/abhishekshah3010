@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://abhishekshah3010.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio - Abhishek Shah](https://abhishekshah3010.github.io/)
 
 - 💬 Ask me about **Python, Java, SQL.**
 
 - 📫 How to reach me **as5553@rit.edu**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/abhishekshah3010/)
+- 📄 Know about my experiences [LinkedIn - Abhishek Shah](https://www.linkedin.com/in/abhishekshah3010/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
