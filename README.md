@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack.**
 
-- 👨‍💻 All of my projects are available at [abhishekshah3010.github.io](abhishekshah3010.github.io)
+- 👨‍💻 All of my projects are available at [https://abhishekshah3010.github.io/](abhishekshah3010.github.io)
 
 - 💬 Ask me about **Python, Java, SQL.**
 
