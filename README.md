@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
 <h3 align="center">A passionate software developer pursuing MS CS from Rochester Institute of Technology, New York</h3>
 
-- 🔭 I’m currently working on [an Podcast Summarizer using AWS, Python and ReactJS.](https://github.com/abhishekshah3010/PodcastSummarizer)
+- 🔭 I’m currently working on [an Podcast Summarizer using AWS, Python and Flask.](https://github.com/abhishekshah3010/PodcastSummarizer)
 
 - 🌱 I’m currently learning **MERN stack.**
 
