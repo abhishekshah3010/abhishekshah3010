@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
-<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles. Skilled in a variety of programming languages, including Python, and Java SQL, and proficient in AWS. Experience in full-cycle software development, including requirements gathering, design, implementation, testing, and maintenance through various group projects and internships. Strong problem-solving, critical thinking, and communication skills. Seeking Software Development opportunities to leverage my skills and continue learning in a professional setting.</h3>
+<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles. Skilled in a variety of programming languages, including Python, and Java SQL, and proficient in AWS.</h3>
 
 - Hi, I'm currently working as a **Software Engineer Co-op at General Electric (GE)**
 
