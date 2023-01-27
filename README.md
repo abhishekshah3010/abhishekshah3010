@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shah</h1>
-<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles. Skilled in a variety of programming languages, including Python, and Java SQL, and proficient in AWS.</h3>
+<h3 align="center">Computer Science graduate with a passion for technology and a strong understanding of programming principles</h3>
 
 - Hi, I'm currently working as a **Software Engineer Co-op at General Electric (GE)**
 
