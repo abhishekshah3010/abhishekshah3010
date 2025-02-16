@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java, SQL.**
 
-- 📫 Reach me at **as5553@rit.edu**
+- 📫 Reach me at **shahabhishek3010@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishekshah3010/](https://www.linkedin.com/in/abhishekshah3010/)
 
