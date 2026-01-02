@@ -9,12 +9,14 @@ Backend Engineering • Data Platforms • Distributed Systems • Reliability
 </p>
 
 <p align="center">
-  <a href="https://abhishekshah3010.github.io" style="margin-right:10px;">
+  <a href="https://abhishekshah3010.github.io">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhishekshah3010/" style="margin-right:10px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhishekshah3010/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shahabhishek3010@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
