@@ -19,7 +19,7 @@ https://abhishekshah3010.github.io
 shahabhishek3010@gmail.com
 
 📄 Professional background  
-https://www.linkedin.com/in/abhishekshah3010/
+https://www.linkedin.com/in/shahabhishek3010/
 
 ---
 
