@@ -24,16 +24,6 @@ I enjoy working close to the core of systems where performance, correctness, and
 
 ---
 
-⚙️ **Engineering Principles I Care About**
-
-• Clean and boring architecture that ages well  
-• Strong ownership from design to production  
-• Automation over manual processes  
-• Observability and failure first thinking  
-• Building software people trust at 3 AM  
-
----
-
 🛠️ **Core Stack**
 
 <p align="left">
