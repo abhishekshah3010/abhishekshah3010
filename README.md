@@ -28,7 +28,7 @@ Backend Engineering • Data Platforms • Distributed Systems • Reliability
 
 🧠 **What I do**
 
-I am a Software Engineer at **Goldman Sachs**, building large scale backend and data platforms that power critical production workflows.
+I am an Associate Software Engineer at **Goldman Sachs**, building large scale backend and data platforms that power critical production workflows.
 
 I focus on systems that must be  
 reliable under pressure  
