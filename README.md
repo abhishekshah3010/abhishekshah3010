@@ -54,19 +54,6 @@ I enjoy working close to the core of systems where performance, correctness, and
 
 ---
 
-🌐 **Find me**
-
-Portfolio  
-https://abhishekshah3010.github.io
-
-LinkedIn  
-https://www.linkedin.com/in/abhishekshah3010/
-
-Email  
-shahabhishek3010@gmail.com
-
----
-
 <p align="center">
 <i>“Make it work. Make it right. Make it reliable.”</i>
 </p>
