@@ -8,6 +8,12 @@ I design and build backend systems that survive real production traffic
 Backend Engineering • Data Platforms • Distributed Systems • Reliability
 </p>
 
+<p align="center">
+<a href="https://abhishekshah3010.github.io">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/abhishekshah3010/">LinkedIn</a> ·
+<a href="mailto:shahabhishek3010@gmail.com">Email</a>
+</p>
+
 ---
 
 🧠 **What I do**
