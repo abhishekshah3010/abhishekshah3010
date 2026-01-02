@@ -9,16 +9,22 @@ Backend Engineering • Data Platforms • Distributed Systems • Reliability
 </p>
 
 <p align="center">
-<a href="https://abhishekshah3010.github.io">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/abhishekshah3010/">LinkedIn</a> ·
-<a href="mailto:shahabhishek3010@gmail.com">Email</a>
+<a href="https://abhishekshah3010.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/abhishekshah3010/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:shahabhishek3010@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 🧠 **What I do**
 
-I am a Software Engineer currently working at **Goldman Sachs**, building large scale backend and data platforms that power critical production workflows.
+I am a Software Engineer at **Goldman Sachs**, building large scale backend and data platforms that power critical production workflows.
 
 I focus on systems that must be  
 reliable under pressure  
